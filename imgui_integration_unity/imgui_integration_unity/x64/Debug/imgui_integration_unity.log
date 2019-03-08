@@ -1,0 +1,4 @@
+﻿  NativePlugin.cpp
+c:\projects\imgui_integration_unity\imgui_integration_unity\nativeplugin.cpp(155): warning C4101: 'OnGraphicsDeviceEvent' :참조되지 않은 지역 변수입니다.
+     C:\projects\imgui_integration_unity\x64\Debug\imgui_integration_unity.lib 라이브러리 및 C:\projects\imgui_integration_unity\x64\Debug\imgui_integration_unity.exp 개체를 생성하고 있습니다.
+  imgui_integration_unity.vcxproj -> C:\projects\imgui_integration_unity\x64\Debug\imgui_integration_unity.dll

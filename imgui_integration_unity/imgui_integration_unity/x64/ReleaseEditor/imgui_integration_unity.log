@@ -1,0 +1,10 @@
+﻿  NativePlugin.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\projects\imgui_integration_unity\x64\Release\imgui_integration_unity.dll)이(가) Linker의 OutputFile 속성 값(C:\projects\imgui_integration_unity\x64\Release\imgui_integration_unity_Editor.dll)과 일치하지 않습니다. 이로 인해 프로젝트가 잘못 빌드될 수 있습니다. 이를 수정하려면 $(OutDir), $(TargetName) 및 $(TargetExt) 속성 값이 %(Link.OutputFile)에 지정된 값과 일치해야 합니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(imgui_integration_unity)이(가) Linker의 OutputFile 속성 값(imgui_integration_unity_Editor)과 일치하지 않습니다. 이로 인해 프로젝트가 잘못 빌드될 수 있습니다. 이를 수정하려면 $(OutDir), $(TargetName) 및 $(TargetExt) 속성 값이 %(Link.OutputFile)에 지정된 값과 일치해야 합니다.
+     C:\projects\imgui_integration_unity\x64\Release\imgui_integration_unity.lib 라이브러리 및 C:\projects\imgui_integration_unity\x64\Release\imgui_integration_unity.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  6 of 861 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  imgui_integration_unity.vcxproj -> C:\projects\imgui_integration_unity\x64\Release\imgui_integration_unity.dll
